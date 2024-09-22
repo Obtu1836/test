@@ -1,8 +1,1 @@
-
-#adslkfskm
-
-#kfsmfsdsd
-
-#asfslfkmkgkkefiadg
-
-#fsf fsg 
+import numpy as np
